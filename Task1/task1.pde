@@ -1,4 +1,4 @@
-//1.A
+//1.A & 1.B & 1.C
 
 int[] arr = { 28, 230, 9, 310, 72}; // Array i global scope
 
